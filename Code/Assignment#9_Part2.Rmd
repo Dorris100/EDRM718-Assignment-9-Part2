@@ -1,0 +1,23 @@
+---
+title: "EDRM718 Assignment#9"
+Author:"Katy Linich, Michael Hornsby and Ruiqin Gao"
+Date:"04/11/2020"
+output: html_notebook
+---
+This is a study of the relationship of Post-traumatic stress discorder(PTSD) and childhood sexual abuse (CSA). We want to know if there is a difference in average PTSD of children of different childhood sexual abuse status after adjusting for Childhood physical abuse (CPA) score.
+```{r}
+library(tidyverse)
+library(here)
+sexabuse<-read.csv(here("Data", "Abuse.csv"))
+sexabuse
+
+```
+```{r}
+
+```
+
+```{r}
+
+```
+
+
